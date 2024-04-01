@@ -2,8 +2,8 @@
 
  body 
 {
-        background-color: red ;
-  background-image: linear-gradient(to right, red, orange);
+  background-color: pink;
+  background-image: linear-gradient(to right, pink, purple);
   text-align: center;
 }
  
@@ -24,10 +24,10 @@ li {
   font-family: Georgia, 'Times New Roman', Times, serif;
   line-height:1.5em;}
 
-        a {
-         color:  rgb(0, 0, 0);
-          text-align: center;
-           text-decoration: none;
+ a {
+  color:  rgb(0, 0, 0);
+  text-align: center;
+  text-decoration: none;
   font-size: 130%;
   font-family: Georgia, 'Times New Roman', Times, serif;
   line-height:1.5em;}
