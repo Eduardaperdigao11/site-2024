@@ -37,11 +37,13 @@ img {
 }
 
 h1 {
+ background-color: pink;
  color: rgb(139, 0, 0);
  font-size: 16;
  font-family: arial;
 }
  h2 {
+  background-color: pink;
   color: rgb(13, 33, 79);
   font-size: 20;
   font-family: verbana;
