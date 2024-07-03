@@ -11,5 +11,18 @@
     <h1>COMANDOS</h1>
     <h2>Comandos html e css</h2>
     
-
     <p><strong>imagem</strong></p>
+<img src="sitehtmlcomandos.jpg" alt="comandos">
+<img src="sitehtmlcomandos2.jpg" alt="comandos2">
+
+ <p><strong>css</strong></p>
+<h2>CSS é utilizado para estilizar elemetos do html</h2>
+
+ <p><strong>id</strong></p>
+<h2>Para identificar um único elemento html de maneira única</h2>
+
+ <p><strong>class</strong></p>
+<h2>É usado para agrupar vários elementos html</h2>
+
+
+
